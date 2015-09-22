@@ -5,3 +5,5 @@ add a new feature in the new file.
 change from the branch
 
 this is my change
+
+another change from the branch features-newfile
